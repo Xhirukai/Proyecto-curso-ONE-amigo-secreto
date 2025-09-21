@@ -138,4 +138,4 @@ function sortearAmigo() {
 
 ## Autor
 
-Este proyecto fue desarrollado como parte del desafío "Amigo Secreto" para fortalecer habilidades en lógica de programación.
+Este proyecto fue desarrollado como parte del desafío "Amigo Secreto" para fortalecer habilidades en lógica de programación por el estudiante Luis Daniel Rosas Miranda de la iniciativa Oracle Next Education (ONE) en colaboracion con la plataforma Alura LATAM.
