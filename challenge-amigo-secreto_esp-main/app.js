@@ -51,7 +51,7 @@ function sortearAmigo() {
         alert("Debe haber al menos dos amigos en la lista para realizar el sorteo.");
         return;
     } else {
-        let indice_aleatorio = parseInt(Math.floor(Math.random() * listado_amigos.length + 1));
+        let indice_aleatorio = Math.floor(Math.random() * listado_amigos.length + 1);
         console.log(listado_amigos.length);
         console.log(indice_aleatorio);
         let amigo_seleccionado = listado_amigos[indice_aleatorio];
